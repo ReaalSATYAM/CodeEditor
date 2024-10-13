@@ -37,11 +37,12 @@ This is a simple text editor with the ability to compile and run C, C++, and Pyt
 2. **Compile & Run**  
     ```bash
    cd CodeEditor
-   gcc Editor.c -o Editor -mwindows -lgdi32 -lcomdlg32 
+   gcc Editor.c -o Editor -mwindows  
    ./Editor.exe
    ```
-
-# Usage
+3. **Using Executable File**
+- Run the `Editor.exe` file directly from the repository folder.
+- Or download the setup file `Code Editoe.exe`.
 
 1. **Open the Editor:** Run the `editor.exe` file to launch the text editor.
 2. **Edit Code:** Write or paste your code in the text box.
