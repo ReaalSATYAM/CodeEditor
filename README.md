@@ -44,6 +44,8 @@ This is a simple text editor with the ability to compile and run C, C++, and Pyt
 - Run the `Editor.exe` file directly from the repository folder.
 - Or download the setup file `Code Editoe.exe`.
 
+# Usage
+
 1. **Open the Editor:** Run the `editor.exe` file to launch the text editor.
 2. **Edit Code:** Write or paste your code in the text box.
 3. **File Operations:**
