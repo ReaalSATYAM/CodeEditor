@@ -68,15 +68,12 @@ The editor supports the following file formats for opening and saving:
 - Python files (`.py`)
 - Text files (`.txt`)
 
+# Contact Information
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:satyamnaithani14@gmail.com)
-
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/satyam-naithani-243076298/)
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/ReaalSATYAM)
 
 
-# License
-
-This project is open source and available under the MIT License.
 
